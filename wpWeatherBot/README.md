@@ -144,4 +144,4 @@ Demo hakkındaki olumlu/olumsuz her türlü soru, görüş ve önerilerinizi aş
 <a href = 'https://www.instagram.com/0x48.dev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 
 ## Lisans
-[MIT](https://github.com/huseyin0x48/wpWeatherBot/blob/main/LICENSE)
+[MIT](https://github.com/huseyin0x48/pythonCodeSnippets/blob/main/LICENSE)
